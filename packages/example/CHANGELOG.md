@@ -1,5 +1,14 @@
 # example
 
+## 0.3.28
+
+### Patch Changes
+
+- [#305](https://github.com/tajo/ladle/pull/305) [`e355c4b`](https://github.com/tajo/ladle/commit/e355c4be10d1a6acb382d407c18b402c48df4479) Thanks [@apttap](https://github.com/apttap)! - Patched bug relating to console errors and unexpected behavior when using undefined values in controls addon / argTypes
+
+- Updated dependencies [[`e355c4b`](https://github.com/tajo/ladle/commit/e355c4be10d1a6acb382d407c18b402c48df4479), [`2616fa5`](https://github.com/tajo/ladle/commit/2616fa5a6a8204a72223136db90188598a9b83af), [`91c758c`](https://github.com/tajo/ladle/commit/91c758ccf2fc27fae3b84754a2b23b5439913751), [`bee0789`](https://github.com/tajo/ladle/commit/bee07894ab1db15e62792e9f8caebb96cd0288d1)]:
+  - @ladle/react@2.5.0
+
 ## 0.3.27
 
 ### Patch Changes

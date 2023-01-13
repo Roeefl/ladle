@@ -1,5 +1,19 @@
 # @ladle/react
 
+## 2.5.0
+
+### Minor Changes
+
+- [#298](https://github.com/tajo/ladle/pull/298) [`2616fa5`](https://github.com/tajo/ladle/commit/2616fa5a6a8204a72223136db90188598a9b83af) Thanks [@tajo](https://github.com/tajo)! - Ugrade to Vite4 and all other deps
+
+- [`91c758c`](https://github.com/tajo/ladle/commit/91c758ccf2fc27fae3b84754a2b23b5439913751) Thanks [@tajo](https://github.com/tajo)! - Provider has access to story.meta values through a new argument storyMeta.
+
+### Patch Changes
+
+- [#305](https://github.com/tajo/ladle/pull/305) [`e355c4b`](https://github.com/tajo/ladle/commit/e355c4be10d1a6acb382d407c18b402c48df4479) Thanks [@apttap](https://github.com/apttap)! - Patched bug relating to console errors and unexpected behavior when using undefined values in controls addon / argTypes
+
+- [#300](https://github.com/tajo/ladle/pull/300) [`bee0789`](https://github.com/tajo/ladle/commit/bee07894ab1db15e62792e9f8caebb96cd0288d1) Thanks [@tajo](https://github.com/tajo)! - publicDir should default to the folder public if there is no vite.config.js
+
 ## 2.4.5
 
 ### Patch Changes
